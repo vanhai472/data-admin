@@ -1,0 +1,73 @@
+.wraper-login{
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgba(0,0,0,0);
+    width: 100%;
+    height: 100%;
+    margin-top: 56px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.wrraper-content{
+    margin: 0 auto;
+    margin-top: 272px;
+}
+.conten-login{
+    color: white;
+}
+.title-login{
+    color: white;
+}
+.wraper-carousel{
+  position: relative;
+    
+}
+.owl-login1{
+    background: url(/carousel1.jpg) no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+      min-height: 100vh;
+  
+  }
+  .owl-login2{
+    background: url(/carousel2.jpg) no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+     min-height: 100vh;
+  }
+  .owl-login3{
+    background: url(/carousel3.jpg) no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+     min-height: 100vh;
+  
+  }
+  .text-item{
+      line-height: 2;
+      padding: 100px;
+  }
+  .text-carousel{
+    width: 900px;
+    margin: 70px auto;
+    color: wheat;
+    text-align: center;
+    background-color: rgba(100,100,100,0.5);
+  }
+  .author{
+    display: inline-block;
+    color: white;
+    background: rgba(100,100,100,0.3);
+    padding: 10px;
+    margin-bottom: 49px;
+  }
